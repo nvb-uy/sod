@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "grassoverhaul:path_sod_patch"
+    },
+    "1": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "id": "minecraft:dirt_path",
+    "count": 1
+  }
+}

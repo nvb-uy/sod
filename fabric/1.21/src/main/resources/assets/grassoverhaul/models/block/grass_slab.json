@@ -1,0 +1,10 @@
+{
+  "parent": "grassoverhaul:custom/grass_slab",
+  "textures": {
+		"1": "minecraft:block/grass_block_side",
+		"2": "minecraft:block/dirt",
+		"3": "minecraft:block/grass_block_side_overlay",
+		"4": "minecraft:block/grass_block_top",
+		"particle": "minecraft:block/grass_block_side"
+  }
+}

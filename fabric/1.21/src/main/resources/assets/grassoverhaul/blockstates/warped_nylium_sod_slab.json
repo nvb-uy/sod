@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grassoverhaul:block/warped_nylium_sod_slab"
+    },
+    "type=top": {
+      "model": "grassoverhaul:block/warped_nylium_sod_slab_top"
+    },
+    "type=double": {
+      "model": "grassoverhaul:block/warped_nylium_sod_slab_full"
+    }
+  }
+}

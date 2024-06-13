@@ -1,0 +1,8 @@
+{
+  "parent": "grassoverhaul:custom/sodblock",
+  "textures": {
+    "all": "minecraft:block/podzol_top",
+    "particle": "minecraft:block/podzol_top",
+    "0": "minecraft:block/podzol_top"
+  }
+}

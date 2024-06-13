@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "grassoverhaul:crimson_nylium_sod_patch"
+    },
+    "1": {
+      "item": "grassoverhaul:crimson_nylium_sod_patch"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "id": "minecraft:crimson_nylium",
+    "count": 1
+  }
+}

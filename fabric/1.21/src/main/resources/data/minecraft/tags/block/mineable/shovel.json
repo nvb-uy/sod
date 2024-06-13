@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "grassoverhaul:dirt_sod_slab",
+    "grassoverhaul:dirt_sod_patch",
+    "grassoverhaul:grass_sod_block",
+    "grassoverhaul:grass_sod_slab",
+    "grassoverhaul:grass_sod_patch",
+    "grassoverhaul:path_sod_block",
+    "grassoverhaul:path_sod_slab",
+    "grassoverhaul:path_sod_patch",
+    "grassoverhaul:mycelium_sod_block",
+    "grassoverhaul:mycelium_sod_slab",
+    "grassoverhaul:mycelium_sod_patch",
+    "grassoverhaul:podzol_sod_block",
+    "grassoverhaul:podzol_sod_slab",
+    "grassoverhaul:podzol_sod_patch",
+    "grassoverhaul:crimson_nylium_sod_block",
+    "grassoverhaul:crimson_nylium_sod_slab",
+    "grassoverhaul:crimson_nylium_sod_patch",
+    "grassoverhaul:warped_nylium_sod_block",
+    "grassoverhaul:warped_nylium_sod_slab",
+    "grassoverhaul:warped_nylium_sod_patch",
+    "grassoverhaul:dirt_sod_stairs",
+    "grassoverhaul:grass_sod_stairs",
+    "grassoverhaul:path_sod_stairs",
+    "grassoverhaul:mycelium_sod_stairs",
+    "grassoverhaul:podzol_sod_stairs",
+    "grassoverhaul:crimson_nylium_sod_stairs",
+    "grassoverhaul:warped_nylium_sod_stairs"
+  ]
+}

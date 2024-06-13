@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grassoverhaul:custom/grass_slab"
+    },
+    "type=top": {
+      "model": "grassoverhaul:custom/grass_slab_top"
+    },
+    "type=double": {
+      "model": "minecraft:block/grass_block"
+    }
+  }
+}

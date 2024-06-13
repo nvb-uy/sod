@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_nylium"
+    },
+    "1": {
+      "item": "minecraft:warped_nylium"
+    },
+    "2": {
+      "item": "minecraft:warped_nylium"
+    },
+    "3": {
+      "item": "minecraft:warped_nylium"
+    }
+  },
+  "result": {
+    "id": "grassoverhaul:warped_nylium_sod_block",
+    "count": 4
+  }
+}

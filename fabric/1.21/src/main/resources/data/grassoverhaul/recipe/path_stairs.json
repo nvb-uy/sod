@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "grassoverhaul:path_sod_block"
+        }
+    },
+    "result": {
+        "id": "grassoverhaul:path_sod_stairs",
+        "count": 6
+    }
+}

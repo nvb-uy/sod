@@ -1,0 +1,8 @@
+{
+  "parent": "grassoverhaul:custom/sodblock",
+  "textures": {
+    "all": "minecraft:block/mycelium_top",
+    "particle": "minecraft:block/mycelium_top",
+    "0": "minecraft:block/mycelium_top"
+  }
+}

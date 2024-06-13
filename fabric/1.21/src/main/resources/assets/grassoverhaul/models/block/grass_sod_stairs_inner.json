@@ -1,0 +1,8 @@
+{
+    "parent": "grassoverhaul:custom/tintable_stairs_inner",
+    "textures": {
+      "bottom": "minecraft:block/grass_block_top",
+      "side": "minecraft:block/grass_block_top",
+      "top": "minecraft:block/grass_block_top"
+    }
+  }

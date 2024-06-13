@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "grassoverhaul:block/podzol_sod_slab"
+    },
+    "type=top": {
+      "model": "grassoverhaul:block/podzol_sod_slab_top"
+    },
+    "type=double": {
+      "model": "grassoverhaul:block/podzol_sod_slab_full"
+    }
+  }
+}

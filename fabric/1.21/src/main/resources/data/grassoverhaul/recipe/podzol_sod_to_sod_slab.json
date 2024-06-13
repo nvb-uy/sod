@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "grassoverhaul:podzol_sod_block"
+    },
+    "1": {
+      "item": "grassoverhaul:podzol_sod_block"
+    },
+    "2": {
+      "item": "grassoverhaul:podzol_sod_block"
+    }
+  },
+  "result": {
+    "id": "grassoverhaul:podzol_sod_slab",
+    "count": 6
+  }
+}

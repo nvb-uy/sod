@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height2"
+    },
+    "layers=2": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height4"
+    },
+    "layers=3": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height6"
+    },
+    "layers=4": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height8"
+    },
+    "layers=5": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height10"
+    },
+    "layers=6": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height12"
+    },
+    "layers=7": {
+      "model": "grassoverhaul:block/dirt_sod_patch_height14"
+    },
+    "layers=8": {
+      "model": "grassoverhaul:block/dirt_sod_patch_block"
+    }
+  }
+}

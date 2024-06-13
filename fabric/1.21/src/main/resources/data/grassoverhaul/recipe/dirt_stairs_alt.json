@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " ##",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "id": "grassoverhaul:dirt_sod_stairs",
+        "count": 6
+    }
+}

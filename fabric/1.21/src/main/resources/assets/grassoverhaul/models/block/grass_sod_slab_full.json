@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "minecraft:block/grass_block_top",
+    "particle": "minecraft:block/grass_block_top"
+  }
+}

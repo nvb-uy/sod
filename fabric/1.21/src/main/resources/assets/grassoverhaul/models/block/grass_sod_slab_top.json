@@ -1,0 +1,7 @@
+{
+  "parent": "grassoverhaul:custom/tintable_slab_top",
+  "textures": {
+    "0": "minecraft:block/grass_block_top",
+    "particle": "minecraft:block/grass_block_top"
+  }
+}

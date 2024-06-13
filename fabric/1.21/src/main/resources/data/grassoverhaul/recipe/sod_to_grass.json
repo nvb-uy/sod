@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "grassoverhaul:grass_sod_patch"
+    },
+    "1": {
+      "item": "grassoverhaul:grass_sod_patch"
+    },
+    "2": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "id": "minecraft:grass_block",
+    "count": 1
+  }
+}
