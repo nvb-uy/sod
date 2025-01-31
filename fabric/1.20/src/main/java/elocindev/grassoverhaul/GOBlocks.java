@@ -106,7 +106,13 @@ public class GOBlocks  {
 
     public static void colorreg() {        
         for (int i = 0; i < TintedBlocks.length; i++) {
-            ColorProviderRegistry.BLOCK.register((state, view, pos, tintIndex) -> BiomeColors.getGrassColor(view, pos), TintedBlocks[i]);
+            ColorProviderRegistry.BLOCK.register((state, view, pos, tintIndex) -> {
+                if (state != null && view != null && pos != null) {
+                    return BiomeColors.getGrassColor(view, pos);
+                }
+                
+                return 0x72b06a;
+            }, TintedBlocks[i]);
             ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x72b06a, TintedBlocks[i]);
         }
     }
